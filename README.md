@@ -37,3 +37,6 @@ Steven Chang
 
 ## Future Improvment
 Currently this project does not support "Split" in Blackjack , It makes sense to implement it so that player can actually have an edge against the House
+
+## Game Images
+https://prnt.sc/xR-SyvNTyTC1
